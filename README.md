@@ -98,7 +98,7 @@ Frontend runs at: `http://localhost:3000`
 
 | Role        | Email                | Password  |
 |-------------|----------------------|-----------|
-| Super Admin | super@admin.com      | password  |
+| Super Admin | superadmin@example.com     | password  |
 | Admin       | admin@example.com    | password  |
 | User        | user@example.com     | password  |
 
