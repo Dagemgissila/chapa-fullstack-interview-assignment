@@ -4,7 +4,7 @@ This is a fullstack web application built using **Laravel 11** (API backend) and
 
 ## 🛠 Tech Stack
 
-- Backend: Laravel 11 (PHP)
+- Backend: Laravel 11 
 - Frontend: React.js (Vite)
 - Auth: Laravel Sanctum
 - HTTP: Axios
